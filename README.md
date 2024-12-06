@@ -2,6 +2,8 @@
 
 一个基于 Express 和 MySQL 的 Node.js 后端服务项目。
 
+使用Cursor进行开发，所有项目文件均由Cursor生成。
+
 ## 功能特性
 
 - Express 服务器框架
